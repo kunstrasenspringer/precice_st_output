@@ -1,0 +1,8 @@
+OpenFOAM-adapter Version: 2af4a94d137a5115b00592f308227e6d059f923e refs/heads/v2.12
+CalculiX-adapter Version: 2af4a94d137a5115b00592f308227e6d059f923e refs/heads/v2.12
+tutorials Version: f19a8a563215320b570237c593e0c2a74d7dc356 refs/pull/1/head
+preCICE Version: c957f625350bbdfcda497c4288e286884064861c refs/tags/v1.1.1
+OpenFOAM version: 4.1
+CalculiX version: 2.12
+Ubuntu version: 16.04
+System testing at Wed May 16 02:11:58 2018
