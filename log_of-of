@@ -1,5 +1,5 @@
-OpenFOAM-adapter Version: da7a22ba24a73e8ce6db2711b56005115052f266 refs/heads/master
+OpenFOAM-adapter Version: 796d1e987433cede89d63a9ce90dab0ff6c1aa93 refs/heads/master
 preCICE Version: c957f625350bbdfcda497c4288e286884064861c refs/tags/v1.1.1
 OpenFOAM version: 4.1
 Ubuntu version: 16.04
-System testing at Fri May 25 16:17:38 2018
+System testing at Sun May 27 16:15:26 2018
